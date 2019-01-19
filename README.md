@@ -4,7 +4,7 @@
 A startup **Angular 7 / ASP.NET Core 2.1** (cross-platform ) **project template** with an end-to-end login, user and role management implementation.
 As well as other common functionalities for **Quick Application Development**.
 
-[FOLLOW ME](https://twitter.com/kommand) on twitter for important updates
+[FOLLOW ME](https://twitter.com/kamaha12000) on twitter for important updates
 
 ###### NOTE: Please post support related topics in the [help & support forum](https://www.ebenmonney.com/forum/?view=forum&id=14). For bug reports open an [issue on github](https://github.com/emonney/QuickApp/issues). 
 
